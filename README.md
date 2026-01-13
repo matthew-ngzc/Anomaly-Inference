@@ -1,9 +1,9 @@
-# Noise and Anomaly Detection in Recommender System Data
+# Noise and Anomaly Inference in Recommender System Data
 **CS421 – Principles of Machine Learning (Group Project)**
 
 ## Overview
 
-This project investigates **noise and anomaly detection in recommender system datasets** using user–item interaction data with ratings. Rather than building a recommender model, the goal is to **identify and quantify noise intentionally injected into each user’s interaction history**.
+This project investigates **noise and anomaly inference in recommender system datasets** using user–item interaction data with ratings. Rather than building a recommender model, the goal is to **identify and quantify noise intentionally injected into each user’s interaction history**.
 
 Each user’s data is corrupted using a hidden anomaly generation procedure defined by:
 - a **continuous noise level** \(`p ∈ [0,1]`\), and
